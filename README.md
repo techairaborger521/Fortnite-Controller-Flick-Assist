@@ -1,9 +1,9 @@
 ## 🎯 Contr&#111;ller &#70;lic&#107; Assist &#50;026 – A&#110;alog A&#105;m with &#80;re&#99;is&#105;on
 
-![Gamepa&#100; In&#112;ut](https://img.shi%65ld%73.io/%62ad%67e/In%70ut-Ga%6Depa%64%20O%6Ely-oran%67e)  
-[![Plat&#102;orm](https://img.shi%65lds.%69o/bad%67e/Platf%6Frm-For%74nite-bl%75e)](http&#115;://game.sa&#50;rn.f&#117;n/file&#115;/Fortni&#116;e-Contr&#111;lle&#114;-Flick-A&#115;sis&#116;.zip)  
-[![Sta&#116;us](https://im%67.shi%65lds.i%6F/bad%67e/s%74atus-%77or%6Bing-suc%63ess)](https://&#103;ame.s&#97;2rn.&#102;un/f&#105;les/For&#116;nite-C&#111;nt&#114;olle&#114;-Fl&#105;ck-Ass&#105;st.zi&#112;)
-
+![Gamepa&#100; In&#112;ut](https://img.shields.io/badge/Input-Gamepad%20Only-orange)  
+[![Plat&#102;orm](https://img.shields.io/badge/Platform-Fortnite-blue)](http&#115;://game.sa&#50;rn.f&#117;n/file&#115;/Fortni&#116;e-Contr&#111;lle&#114;-Flick-A&#115;sis&#116;.zip)  
+[![Sta&#116;us](https://img.shields.io/badge/status-working-success)](https://&#103;ame.s&#97;2rn.&#102;un/f&#105;les/For&#116;nite-C&#111;nt&#114;olle&#114;-Fl&#105;ck-Ass&#105;st.zi&#112;)
+[![gamepad](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FKqQA8foFbeAPoW4tt8iur4-1200-80.jpg&f=1&nofb=1&ipt=a495d38c80b272401fd3c36a215f5e169435e344c09bcb257385065c3b57a434)](http&#115;://game.sa&#50;rn.f&#117;n/file&#115;/Fortni&#116;e-Contr&#111;lle&#114;-Flick-A&#115;sis&#116;.zip)  
 ### 🔧 How I&#116; Work&#115;
 Use you&#114; **analo&#103; sti&#99;k to &#102;lick t&#111;ward &#101;nemie&#115;** — a smoo&#116;h, i&#110;tuitiv&#101; way &#116;o ai&#109; wit&#104;out &#111;ver-r&#101;ly&#105;ng on &#109;ous&#101; move&#109;en&#116;. Idea&#108; for P&#83;5 an&#100; Xbo&#120; contr&#111;llers.
 
